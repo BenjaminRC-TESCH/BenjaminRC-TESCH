@@ -89,29 +89,19 @@
 </div>
 
 <p align="center">
-  <a href="" target="blank">
-    <img src="https://skillicons.dev/icons?i=gmail&perline=3" alt="Gmail Icon" />
-  </a>
-  <a href="" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&perline=3" alt="Gmail Icon" />
-  </a>
-  <a href="" target="blank">
-    <img src="https://skillicons.dev/icons?i=github&perline=3" alt="Gmail Icon" />
-  </a>
-</p>
-
-<!-- -----------------------------------Contact------------------------------------------>
-
-  
-</div>
-
-<p align="center">
   <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:benj.ray.cor.15@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/BenjaminRC-TESCH"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/benjamin-rayon-corona/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="[https://www.facebook.com/candida.noronha.77](https://www.facebook.com/ajneb.rayon/)"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 </p>
+
+<!-- -----------------------------------Contact------------------------------------------>
+
+  
+
+
+
 
 
 
