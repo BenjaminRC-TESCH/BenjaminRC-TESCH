@@ -58,11 +58,24 @@
     <summary><h2 style="display: inline-block">Habilidades</h2></summary>
   </ul>
 </div>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,nodejs,express,firebase,mongodb,mysql,angular,react,bootstrap,postman,ts,vscode&perline=14" />
-  </a>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" /></a>
+</p>
 <!-- -----------------------------------Skills------------------------------------------>
 
 
