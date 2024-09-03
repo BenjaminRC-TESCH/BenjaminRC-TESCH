@@ -17,7 +17,7 @@
 
 
 <!-- -----------------------------------Carreer------------------------------------------>
-<h3 align="center">Ingeniería en sistemas | Desarrollo web</h3>
+<h3 align="center">Ingeniero en sistemas computacionales | Desarrollo web</h3>
 
 <p align="center">
   <em>
@@ -25,7 +25,7 @@
     Soy una persona autodidacta, lo que me ha permitido adquirir conocimientos sólidos en mi campo. He trabajado en proyectos de desarrollo web, enfocándome en la creación de soluciones eficientes y escalables, siempre buscando mejorar tanto la funcionalidad como la experiencia del usuario.
   <br>
     <br>
-  <b><i align="center">"El deber de un ciudadano es no creer en ninguna profecía del futuro, sino de actuar para realizar el mejor futuro posible <br> -Richard Stallman”</i></b> 
+  <b><i align="center">"El deber de un ciudadano es no creer en ninguna profecía del futuro, sino de actuar para realizar el mejor futuro posible. <br> -Richard Stallman”</i></b> 
 </p>
 <!-- -----------------------------------Carreer------------------------------------------>
 
