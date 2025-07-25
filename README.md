@@ -75,6 +75,7 @@
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
 </p>
 <!-- -----------------------------------Skills------------------------------------------>
 
