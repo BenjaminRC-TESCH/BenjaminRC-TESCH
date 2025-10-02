@@ -79,32 +79,4 @@
 </p>
 <!-- -----------------------------------Skills------------------------------------------>
 
-
-
-
-<!-- -----------------------------------Contact------------------------------------------>
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Contactame 🤝</h2></summary>
-  </ul>
-</div>
-
-<p align="center">
-  <a href="https://benjaminrc.netlify.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:benj.ray.cor.15@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/BenjaminRC-TESCH"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/benjamin-rayon-corona/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="[https://www.facebook.com/candida.noronha.77](https://www.facebook.com/ajneb.rayon/)"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-</p>
-
-<!-- -----------------------------------Contact------------------------------------------>
-
-  
-
-
-
-
-
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
