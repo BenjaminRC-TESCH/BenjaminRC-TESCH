@@ -9,7 +9,7 @@
 
   <!-- Title with waving hand GIF -->
   <h1><img alt="Hola" height="35px" width="35px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img> 
-    <b>Hola, Soy Benjamin!</b> 
+    <b>Hola, </b> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
 <!-- -----------------------------------Tittle------------------------------------------>
@@ -17,7 +17,7 @@
 
 
 <!-- -----------------------------------Carreer------------------------------------------>
-<h3 align="center">Ingeniero en sistemas computacionales | Desarrollo web</h3>
+<h3 align="center">Desarrollo web</h3>
 
 <p align="center">
   <em>
