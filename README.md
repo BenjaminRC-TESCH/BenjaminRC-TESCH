@@ -3,7 +3,7 @@
 
 <!-- -----------------------------------Tittle------------------------------------------>
 <div align="center">
-   Banner Image -->
+  <!-- Banner Image -->
   <img src="https://wallspic.com/image/163308-java-graphic_design-logo-text-graphics" 
   alt="Banner Image" style="width: 100%; max-width: 1000px; height: 250px;"">
 <!--
