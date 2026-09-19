@@ -3,10 +3,13 @@
 
 <!-- -----------------------------------Tittle------------------------------------------>
 <div align="center">
-  <!-- Banner Image -->
+   Banner Image -->
+  <img src="https://wallspic.com/image/163308-java-graphic_design-logo-text-graphics" 
+  alt="Banner Image" style="width: 100%; max-width: 1000px; height: 250px;"">
+<!--
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" 
   alt="Banner Image" style="width: 100%; max-width: 1000px; height: 250px;"">
-
+-->
   <!-- Title with waving hand GIF -->
   <h1><img alt="Hola" height="35px" width="35px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img> 
     <b>Hola, DEV</b> 
